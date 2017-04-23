@@ -3,3 +3,4 @@
 * [简单类](https://github.com/tangxim/Java/blob/master/Ex4.java "Ex4.java")
 * [this的用法](https://github.com/tangxim/Java/tree/master/Circle "Circle")
 * [继承 super的用法](https://github.com/tangxim/Java/tree/master/Test3 "Test3")
+* [接口](https://github.com/tangxim/Java/tree/master/interface "interface")
