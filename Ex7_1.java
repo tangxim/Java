@@ -24,5 +24,4 @@ public class Ex7_1 {
 		}
 		System.out.println("haha...");
 	}
-
 }
